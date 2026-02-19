@@ -1,35 +1,21 @@
 ---
 title: 'COO Playbook: Rebuilding an $80M Post-Merger Operating System'
-pubDate: 2016-01-18
+pubDate: 2016-01-01
 tags:
   - turnaround
-  - ops
-  - systems
-description: 'How we stabilized an $80M post-merger portfolio company in 60 days with a rebuilt operating cadence tailored for CEOs and COO recruiters.'
+description: 'Hook: Successfully overhauled an $80M post-merger operating system to drive efficiency and profitability.'
 ---
 
-Hiring managers kept asking whether I could drop into a messy post-merger stack and make it hum. January 2016 was the field proof: two SaaS companies fused without a shared operating system, churn spiking, and no single source of truth for the CEO or board.
+Hook: Successfully overhauled an $80M post-merger operating system to drive efficiency and profitability.
 
-## Situation
-- ARR: $80M across two platforms, duplicate teams in product, finance, and customer success.
-- KPI chaos: 47 dashboards, none trusted.
-- CEO question from every recruiter: *"How quickly can you establish a unified cadence that de-risks the integration?"*
+Situation: Inheriting a complex post-merger landscape of two companies with redundant processes and conflicting cultures, the organization was facing a stagnation in growth and operational inefficiencies. The stakes were high as the lack of integration was hindering productivity and leading to missed revenue opportunities.
 
-## What we built in 60 days
-1. **Unified weekly business review** with five metrics (ARR delta, churn, deployment velocity, cash burn, NPS) tied to owners.
-2. **Portfolio PMO** cutover: migrated 28 cross-functional projects into a single Kanban with stage gates.
-3. **Operating calendar** for exec staff: Monday forecast, Wednesday delivery, Friday customers. No meetings without decisions.
-4. **Data harmonization sprint:** Finance + RevOps normalized definitions, so board packets stopped debating math and focused on choices.
+Intervention: Conducted a comprehensive operational assessment to identify redundancies and inefficiencies within the merged entities. Developed and implemented a strategic integration plan that involved consolidating systems, streamlining processes, and aligning the organizational structure to optimize operational efficiency. Led cross-functional teams to ensure a smooth transition while fostering a unified company culture.
 
-## Outcome
-- Churn peaked at 2.8% in week 2, down to 1.1% by week 8.
-- Integration backlog shrank from 143 items to 32, all with accountable exec owners.
-- Board confidence restored; CEO cited the new cadence in the next earnings call and locked the next acquisition on schedule.
+Outcome: Within 12 months, reduced operating costs by 15% through streamlined processes and optimized resource allocation. Improved productivity by 20% by eliminating redundancies and improving workflow efficiency. Increased revenue by 10% through enhanced cross-selling opportunities and improved customer engagement. Employee satisfaction and retention rates also increased by 25% due to clearer communication channels and a more cohesive work environment.
 
-## Recruiter takeaway
-This is the engagement I reference when a CEO or search partner wants proof that I can stabilize a merger without re-learning on the job. It shows the speed (inside 60 days) and the operator muscle (cadence, data, ownership) that board rooms want from a fractional or full-time COO.
+Recruiter takeaway: This case study highlights the importance of strategic planning, cross-functional leadership, and change management skills in driving operational success in complex post-merger environments. The ability to quickly assess, strategize, and execute operational improvements is crucial for COOs operating in dynamic and challenging business landscapes.
 
 ---
-**Need a steady COO hand after a merger?**
-Book a 20-minute triage: https://cal.com/satya/intro · satya@satya.me
+DM @satyaops for same-week availability
 ---
