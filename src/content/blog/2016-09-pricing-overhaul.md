@@ -1,6 +1,6 @@
 ---
 title: 'Pricing Overhaul: Taking ARR per Head from $42K to $58K'
-date: 2016-09-19
+pubDate: 2016-09-19
 tags:
   - gtm
   - finance

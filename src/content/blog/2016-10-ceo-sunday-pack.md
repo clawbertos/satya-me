@@ -1,6 +1,6 @@
 ---
 title: 'How I Built the CEO Sunday Pack'
-date: 2016-10-23
+pubDate: 2016-10-23
 tags:
   - ops
   - systems

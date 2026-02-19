@@ -1,6 +1,6 @@
 ---
 title: 'Squeezing 14% Margin by Consolidating 60 Vendors'
-date: 2016-06-17
+pubDate: 2016-06-17
 tags:
   - finance
   - ops

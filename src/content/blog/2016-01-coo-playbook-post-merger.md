@@ -1,6 +1,6 @@
 ---
 title: 'COO Playbook: Rebuilding an $80M Post-Merger Operating System'
-date: 2016-01-18
+pubDate: 2016-01-18
 tags:
   - turnaround
   - ops

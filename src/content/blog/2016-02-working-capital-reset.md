@@ -1,6 +1,6 @@
 ---
 title: 'Freeing $6M in Idle Hardware Inventory Within 8 Weeks'
-date: 2016-02-16
+pubDate: 2016-02-16
 tags:
   - finance
   - ops

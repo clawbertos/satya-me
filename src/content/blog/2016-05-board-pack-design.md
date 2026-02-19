@@ -1,6 +1,6 @@
 ---
 title: 'Designing the 12-Slide Board Pack That Actually Drives Action'
-date: 2016-05-12
+pubDate: 2016-05-12
 tags:
   - board-ready
   - finance

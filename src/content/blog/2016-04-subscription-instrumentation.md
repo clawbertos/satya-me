@@ -1,6 +1,6 @@
 ---
 title: 'Instrumenting Subscription Cohorts After Years of Spreadsheet Drift'
-date: 2016-04-18
+pubDate: 2016-04-18
 tags:
   - ops
   - systems

@@ -1,6 +1,6 @@
 ---
 title: 'Standing Up a Launch War Room in 5 Days'
-date: 2016-07-22
+pubDate: 2016-07-22
 tags:
   - gtm
   - ops
