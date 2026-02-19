@@ -6,7 +6,7 @@ tags:
 description: 'Hook: In the face of logistical chaos, I transformed a dysfunctional fulfillment process into a well-oiled machine.'
 ---
 
-Hook: In the face of logistical chaos, I transformed a dysfunctional fulfillment process into a well-oiled machine.
+In the face of logistical chaos, I transformed a dysfunctional fulfillment process into a well-oiled machine.
 
 As COO of a growing e-commerce company, I inherited a fulfillment system in disarray. Our warehouse management system (WMS) was outdated and incapable of handling our increasing order volume. Manual processes resulted in frequent errors, delays, and dissatisfied customers. The stakes were high as our reputation and revenue were on the line.
 

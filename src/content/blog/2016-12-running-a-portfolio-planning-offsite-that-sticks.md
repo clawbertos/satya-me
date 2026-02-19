@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Achieving a 25% increase in project completion rates post-portfolio planning offsite - the key to operational success.'
 ---
 
-Hook: Achieving a 25% increase in project completion rates post-portfolio planning offsite - the key to operational success.
+Achieving a 25% increase in project completion rates post-portfolio planning offsite - the key to operational success.
 
 As COO of a growing technology firm, I faced the challenge of aligning our project portfolio with strategic goals. Our annual planning offsite had become a mere formality, resulting in missed deadlines, budget overruns, and stalled innovation. With project completion rates hovering around 60%, it was clear we needed a drastic change to drive operational efficiency and growth.
 

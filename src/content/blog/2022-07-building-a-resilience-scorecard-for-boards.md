@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a Supply Chain Resilience Scorecard, boosting operational efficiency by 20%.'
 ---
 
-Hook: Implemented a Supply Chain Resilience Scorecard, boosting operational efficiency by 20%.
+Implemented a Supply Chain Resilience Scorecard, boosting operational efficiency by 20%.
 
 As the COO of a global manufacturing company, I faced a critical challenge with our supply chain resilience. Our operations were vulnerable to disruptions, impacting production schedules and customer satisfaction. The lack of visibility into our suppliers’ risk exposure posed a significant threat to our business continuity.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a reactive support function into a proactive, COO-led success organization, driving significant operational improvements.'
 ---
 
-Hook: Transformed a reactive support function into a proactive, COO-led success organization, driving significant operational improvements.
+Transformed a reactive support function into a proactive, COO-led success organization, driving significant operational improvements.
 
 As the newly appointed COO of a SaaS company, I inherited a support function struggling to meet customer demands. Customer satisfaction was at an all-time low, with a Net Promoter Score (NPS) of 5, and a high churn rate of 15% per quarter. The lack of proactive measures and operational inefficiencies were jeopardizing the company’s growth prospects.
 

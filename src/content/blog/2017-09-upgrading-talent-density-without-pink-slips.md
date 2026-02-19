@@ -7,7 +7,6 @@ description: 'Hook:
 Boosting talent density without resorting to layoffs - how I led a successful transformation.'
 ---
 
-Hook:
 Boosting talent density without resorting to layoffs - how I led a successful transformation.
 
 As COO of a mid-sized tech company, I faced a critical challenge: our talent density was below industry standards, leading to inefficiencies and missed growth opportunities. The stakes were high as competitors were rapidly gaining ground, and our market share was at risk.

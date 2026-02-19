@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a strategy to ensure seamless operational continuity during CEO/COO sabbaticals, avoiding any slowdown in business performance.'
 ---
 
-Hook: Implemented a strategy to ensure seamless operational continuity during CEO/COO sabbaticals, avoiding any slowdown in business performance.
+Implemented a strategy to ensure seamless operational continuity during CEO/COO sabbaticals, avoiding any slowdown in business performance.
 
 As the COO of a fast-growing tech startup, faced with the challenge of planning for the CEO and my sabbaticals without disrupting the company’s rapid growth trajectory. The stakes were high, with the potential for operational inefficiencies and decreased productivity during our absence.
 

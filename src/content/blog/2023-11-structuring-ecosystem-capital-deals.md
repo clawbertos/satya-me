@@ -7,7 +7,6 @@ description: 'Hook:
 Successfully restructuring ecosystem capital deals resulted in a 20% increase in ROI within six months.'
 ---
 
-Hook:
 Successfully restructuring ecosystem capital deals resulted in a 20% increase in ROI within six months.
 
 As a COO of a sustainable agriculture company, I faced the challenge of ineffective ecosystem capital deals that were hindering our financial performance. Our current deals were not maximizing returns and were failing to align with our sustainability goals, putting the company at risk of falling behind competitors in the market.

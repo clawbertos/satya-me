@@ -6,7 +6,7 @@ tags:
 description: 'Hook: In a cash-strapped environment, driving capital efficiency is non-negotiable for sustainable growth.'
 ---
 
-Hook: In a cash-strapped environment, driving capital efficiency is non-negotiable for sustainable growth.
+In a cash-strapped environment, driving capital efficiency is non-negotiable for sustainable growth.
 
 As COO of a fast-growing tech startup, faced with dwindling cash reserves and high burn rate, urgent action was needed to ensure the company’s survival. The pressure was on to optimize capital allocation without sacrificing growth potential.
 

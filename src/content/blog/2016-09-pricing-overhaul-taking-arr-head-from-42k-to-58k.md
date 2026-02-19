@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully increased Annual Recurring Revenue (ARR) per head from $42K to $58K through a strategic pricing overhaul.'
 ---
 
-Hook: Successfully increased Annual Recurring Revenue (ARR) per head from $42K to $58K through a strategic pricing overhaul.
+Successfully increased Annual Recurring Revenue (ARR) per head from $42K to $58K through a strategic pricing overhaul.
 
 As COO of a SaaS company, I identified a critical issue with our pricing strategy. Despite having a strong product-market fit, our ARR per head was stagnant at $42K. This indicated a missed opportunity for revenue growth and raised concerns about our long-term sustainability in a competitive market.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a transformation office that drove a 30% increase in operational efficiency within one year.'
 ---
 
-Hook: Implemented a transformation office that drove a 30% increase in operational efficiency within one year.
+Implemented a transformation office that drove a 30% increase in operational efficiency within one year.
 
 As COO of a growing tech company experiencing operational inefficiencies across departments, I was tasked with spearheading a transformation initiative to streamline processes, improve productivity, and boost overall performance.
 

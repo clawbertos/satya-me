@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented autonomous operations workflows resulting in a 40% increase in efficiency.'
 ---
 
-Hook: Implemented autonomous operations workflows resulting in a 40% increase in efficiency.
+Implemented autonomous operations workflows resulting in a 40% increase in efficiency.
 
 As COO of a fast-growing tech startup, I faced the challenge of scaling our operations to keep up with the rapid pace of business expansion. Manual processes were leading to bottlenecks, errors, and inefficiencies, hindering our ability to meet customer demands and impacting our bottom line.
 

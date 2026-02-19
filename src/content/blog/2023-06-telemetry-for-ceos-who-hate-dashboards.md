@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By implementing a usage telemetry system, I transformed a data-averse CEO into a metrics-driven leader.'
 ---
 
-Hook: By implementing a usage telemetry system, I transformed a data-averse CEO into a metrics-driven leader.
+By implementing a usage telemetry system, I transformed a data-averse CEO into a metrics-driven leader.
 
 As the COO of a tech startup, I faced the challenge of a CEO who resisted using dashboards and analytics to make informed decisions. Without visibility into key operational metrics, our company struggled to identify areas for improvement and track progress effectively.
 

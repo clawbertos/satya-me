@@ -6,7 +6,7 @@ tags:
 description: 'Hook: As a COO, I spearheaded the successful delivery of internal data products, revolutionizing decision-making for CEOs.'
 ---
 
-Hook: As a COO, I spearheaded the successful delivery of internal data products, revolutionizing decision-making for CEOs.
+As a COO, I spearheaded the successful delivery of internal data products, revolutionizing decision-making for CEOs.
 
 The company lacked a streamlined process for accessing and analyzing critical internal data, leading to delays in decision-making, increased operational costs, and missed growth opportunities.
 

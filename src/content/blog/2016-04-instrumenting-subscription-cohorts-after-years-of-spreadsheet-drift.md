@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By implementing robust subscription cohort analysis, I transformed a disorganized spreadsheet system into a data-driven powerhouse, driving significant revenue growth.'
 ---
 
-Hook: By implementing robust subscription cohort analysis, I transformed a disorganized spreadsheet system into a data-driven powerhouse, driving significant revenue growth.
+By implementing robust subscription cohort analysis, I transformed a disorganized spreadsheet system into a data-driven powerhouse, driving significant revenue growth.
 
 As COO of a SaaS company, I inherited a haphazard subscription tracking system reliant on error-prone spreadsheets. Lack of accurate data led to missed revenue opportunities and ineffective decision-making. The stakes were high as the company struggled to scale due to unreliable metrics.
 

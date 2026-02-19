@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a holiday war room strategy that boosted operational efficiency by 25%.'
 ---
 
-Hook: Implemented a holiday war room strategy that boosted operational efficiency by 25%.
+Implemented a holiday war room strategy that boosted operational efficiency by 25%.
 
 With the holiday season fast approaching, our e-commerce company faced the challenge of managing a 3x increase in customer orders while maintaining service levels. Previous years had been plagued by operational bottlenecks, leading to delayed shipments and dissatisfied customers. The stakes were high as customer loyalty and revenue were on the line.
 

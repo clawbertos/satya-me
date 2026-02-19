@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented profitability sprints that increased revenue by 15% in three months without sacrificing team morale.'
 ---
 
-Hook: Implemented profitability sprints that increased revenue by 15% in three months without sacrificing team morale.
+Implemented profitability sprints that increased revenue by 15% in three months without sacrificing team morale.
 
 As COO of a tech startup, I faced the challenge of driving profitability in a fast-paced environment where time-to-market was critical. The pressure to deliver results quickly often led to burnout among team members, impacting productivity and morale. Our revenue growth had plateaued, and it was clear that a new approach was needed to boost profitability without demotivating the team.
 

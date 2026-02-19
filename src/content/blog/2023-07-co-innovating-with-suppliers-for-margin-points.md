@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By leveraging supplier co-innovation, I drove a 15% increase in margin points within six months.'
 ---
 
-Hook: By leveraging supplier co-innovation, I drove a 15% increase in margin points within six months.
+By leveraging supplier co-innovation, I drove a 15% increase in margin points within six months.
 
 Faced with stagnant margins and increased competition in the consumer goods industry, our company needed to find innovative ways to boost profitability. Traditional cost-cutting measures had already been exhausted, and we needed a new approach to drive growth and stay ahead of the competition.
 

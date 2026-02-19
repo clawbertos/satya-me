@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implementing a robust Budget + OKR loop saved our company from financial turmoil and strategic misalignment.'
 ---
 
-Hook: Implementing a robust Budget + OKR loop saved our company from financial turmoil and strategic misalignment.
+Implementing a robust Budget + OKR loop saved our company from financial turmoil and strategic misalignment.
 
 As the COO of a rapidly growing tech startup, I faced the challenge of aligning our financial resources with our strategic objectives. Without a clear connection between our budget and Objectives and Key Results (OKRs), we were at risk of overspending in certain areas while neglecting critical initiatives, leading to potential cash flow issues and missed growth opportunities.
 

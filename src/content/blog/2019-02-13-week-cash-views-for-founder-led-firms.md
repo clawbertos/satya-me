@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented 13-week cash forecasting to drive financial visibility and stability in founder-led firms.'
 ---
 
-Hook: Implemented 13-week cash forecasting to drive financial visibility and stability in founder-led firms.
+Implemented 13-week cash forecasting to drive financial visibility and stability in founder-led firms.
 
 As the COO of a founder-led firm, I faced a lack of cash visibility, hindering our ability to make informed financial decisions. Without a clear understanding of our cash flow, we were at risk of facing cash shortages and potential disruptions to our operations.
 

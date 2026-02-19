@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented an AI ops fabric across 6 teams, boosting operational efficiency by 40%.'
 ---
 
-Hook: Implemented an AI ops fabric across 6 teams, boosting operational efficiency by 40%.
+Implemented an AI ops fabric across 6 teams, boosting operational efficiency by 40%.
 
 As COO of a tech company, I faced the challenge of siloed operations across 6 teams working on AI projects. Communication breakdowns and duplicated efforts were slowing down project timelines, leading to missed deadlines and decreased productivity. The stakes were high as the company risked losing its competitive edge in the rapidly evolving tech landscape.
 

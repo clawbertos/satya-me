@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By leading a targeted Account-Based Marketing (ABM) strategy, I successfully revived our enterprise pipeline, driving substantial growth in a challenging market.'
 ---
 
-Hook: By leading a targeted Account-Based Marketing (ABM) strategy, I successfully revived our enterprise pipeline, driving substantial growth in a challenging market.
+By leading a targeted Account-Based Marketing (ABM) strategy, I successfully revived our enterprise pipeline, driving substantial growth in a challenging market.
 
 As COO of a tech company, I faced a declining enterprise pipeline due to increased competition and market saturation. Our sales team was struggling to secure high-value deals, putting our revenue targets at risk.
 

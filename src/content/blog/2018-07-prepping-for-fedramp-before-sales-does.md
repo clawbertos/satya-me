@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully navigating FedRAMP compliance ahead of the sales team’s push.'
 ---
 
-Hook: Successfully navigating FedRAMP compliance ahead of the sales team’s push.
+Successfully navigating FedRAMP compliance ahead of the sales team’s push.
 
 As the COO of a tech startup aiming to break into the US federal market, we faced the critical challenge of achieving FedRAMP compliance. With sales eager to pursue government contracts, the stakes were high to ensure our systems met the rigorous security standards required.
 

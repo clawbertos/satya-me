@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Boosting year-end performance by 20% through strategic operational leadership.'
 ---
 
-Hook: Boosting year-end performance by 20% through strategic operational leadership.
+Boosting year-end performance by 20% through strategic operational leadership.
 
 As COO of a consumer goods company, I faced the challenge of meeting year-end targets in a highly competitive market. With only three months left, sales were stagnating, and morale was low among the team. The pressure was on to turn the situation around and finish the year strong.
 

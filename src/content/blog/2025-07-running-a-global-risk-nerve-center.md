@@ -7,7 +7,6 @@ description: 'Hook:
 In a high-stakes global environment, establishing a centralized risk nerve center can be the difference between success and failure.'
 ---
 
-Hook:
 In a high-stakes global environment, establishing a centralized risk nerve center can be the difference between success and failure.
 
 As COO of a multinational corporation operating in volatile markets, I faced the challenge of managing risk across diverse regions and sectors. Our decentralized approach to risk management led to inefficiencies, missed opportunities, and increased exposure to threats.

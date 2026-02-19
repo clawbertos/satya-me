@@ -7,7 +7,6 @@ description: 'Hook:
 Transforming data governance from a bottleneck to a catalyst for growth: a COO’s playbook.'
 ---
 
-Hook:
 Transforming data governance from a bottleneck to a catalyst for growth: a COO’s playbook.
 
 As the COO of a fast-growing tech company, I inherited a data governance framework that was hindering our go-to-market (GTM) strategy. Data inconsistencies led to missed opportunities, slowed decision-making, and eroded customer trust.

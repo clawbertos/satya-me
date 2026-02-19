@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented board calibration sprints to drive alignment and improve decision-making processes, resulting in significant operational efficiencies.'
 ---
 
-Hook: Implemented board calibration sprints to drive alignment and improve decision-making processes, resulting in significant operational efficiencies.
+Implemented board calibration sprints to drive alignment and improve decision-making processes, resulting in significant operational efficiencies.
 
 As the COO of a rapidly growing tech startup, I faced the challenge of navigating a complex decision-making landscape with our board of directors. Misaligned priorities and diverging perspectives often led to delays in critical decisions, impacting our operational efficiency and growth trajectory.
 

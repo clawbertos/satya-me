@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented zero-based budgeting to drive discipline without stifling growth, resulting in significant cost savings and increased profitability.'
 ---
 
-Hook: Implemented zero-based budgeting to drive discipline without stifling growth, resulting in significant cost savings and increased profitability.
+Implemented zero-based budgeting to drive discipline without stifling growth, resulting in significant cost savings and increased profitability.
 
 As the COO of a rapidly growing tech startup, we were experiencing challenges with cost control and resource allocation. Our traditional budgeting approach was no longer sustainable, leading to inefficiencies and budget overruns that were impacting our bottom line.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Recovered $6M in idle hardware inventory within 8 weeks, optimizing operational efficiency and unlocking capital.'
 ---
 
-Hook: Recovered $6M in idle hardware inventory within 8 weeks, optimizing operational efficiency and unlocking capital.
+Recovered $6M in idle hardware inventory within 8 weeks, optimizing operational efficiency and unlocking capital.
 
 As COO of a tech company, I faced a critical issue of $6M worth of idle hardware inventory taking up valuable warehouse space and tying up capital. This stagnant inventory was not only hindering cash flow but also causing operational inefficiencies and preventing investment in more profitable areas.
 

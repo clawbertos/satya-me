@@ -7,7 +7,6 @@ description: 'Hook:
 In the midst of the COVID-19 crisis, I spearheaded the implementation of a Project Management Office (PMO) blueprint that transformed chaos into streamlined operations.'
 ---
 
-Hook:
 In the midst of the COVID-19 crisis, I spearheaded the implementation of a Project Management Office (PMO) blueprint that transformed chaos into streamlined operations.
 
 As the COO of a mid-sized retail company, we faced unprecedented challenges due to the pandemic. With supply chain disruptions, store closures, and remote work transitions, our operational efficiency was at risk. The need for a centralized project management approach was critical to navigate the uncertainty and ensure business continuity.

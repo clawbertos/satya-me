@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented usage-based pricing strategy, resulting in a 25% increase in revenue within 6 months.'
 ---
 
-Hook: Implemented usage-based pricing strategy, resulting in a 25% increase in revenue within 6 months.
+Implemented usage-based pricing strategy, resulting in a 25% increase in revenue within 6 months.
 
 As the COO of a SaaS company, we were facing intense market competition and pressure to increase revenue streams. Our traditional subscription model was becoming outdated, leading to stagnant growth and limited scalability. The stakes were high as our market share was at risk, and we needed a transformational solution to stay ahead.
 

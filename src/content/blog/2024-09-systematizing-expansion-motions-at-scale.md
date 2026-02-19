@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a strategic system to streamline customer expansion motions, resulting in a 30% increase in revenue within six months.'
 ---
 
-Hook: Implemented a strategic system to streamline customer expansion motions, resulting in a 30% increase in revenue within six months.
+Implemented a strategic system to streamline customer expansion motions, resulting in a 30% increase in revenue within six months.
 
 As the COO of a fast-growing SaaS company, we were facing challenges with scaling our customer expansion motions. The lack of a standardized process led to inefficiencies, missed opportunities, and inconsistent results. With revenue targets to meet and a competitive market, the stakes were high to optimize our expansion strategies quickly.
 

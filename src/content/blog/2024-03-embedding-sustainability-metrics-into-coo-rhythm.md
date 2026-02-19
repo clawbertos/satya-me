@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By implementing a sustainability metrics framework into the COO rhythm, we transformed our operations and bottom line.'
 ---
 
-Hook: By implementing a sustainability metrics framework into the COO rhythm, we transformed our operations and bottom line.
+By implementing a sustainability metrics framework into the COO rhythm, we transformed our operations and bottom line.
 
 As COO of a manufacturing company, I faced the challenge of integrating sustainability practices into our daily operations. With increasing consumer demand for eco-friendly products, the pressure was on to reduce our environmental impact while maintaining operational efficiency.
 

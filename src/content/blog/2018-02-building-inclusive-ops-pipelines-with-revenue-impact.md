@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implementing inclusive hiring practices in operations increased revenue by 15% within six months.'
 ---
 
-Hook: Implementing inclusive hiring practices in operations increased revenue by 15% within six months.
+Implementing inclusive hiring practices in operations increased revenue by 15% within six months.
 
 As COO of a mid-sized tech company, we faced a critical challenge with our operations team lacking diversity. This lack of diversity not only hindered innovation but also created a disconnect with our diverse customer base. The urgency to address this issue was heightened by the potential revenue impact of not having a representative team.
 

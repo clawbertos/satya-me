@@ -7,7 +7,6 @@ description: 'Hook:
 Implemented health protocols without sacrificing operational efficiency, increasing safety without compromising productivity.'
 ---
 
-Hook:
 Implemented health protocols without sacrificing operational efficiency, increasing safety without compromising productivity.
 
 As the COO of a manufacturing company during the COVID-19 pandemic, I faced the challenge of implementing strict health protocols to ensure employee safety while maintaining production levels. The stakes were high, with potential shutdowns due to outbreaks threatening the company’s bottom line and reputation.

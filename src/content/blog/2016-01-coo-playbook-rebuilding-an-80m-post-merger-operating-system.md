@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed an $80M post-merger chaos into operational excellence in 6 months.'
 ---
 
-Hook: Transformed an $80M post-merger chaos into operational excellence in 6 months.
+Transformed an $80M post-merger chaos into operational excellence in 6 months.
 
 After a merger, an $80M company faced operational chaos with disjointed processes, demotivated teams, and missed revenue targets. Stakeholders demanded rapid improvement to prevent further losses.
 

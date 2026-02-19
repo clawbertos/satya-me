@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a COO-led Voice of Customer (VoC) loop that feeds product development weekly, driving customer-centric operations.'
 ---
 
-Hook: Implemented a COO-led Voice of Customer (VoC) loop that feeds product development weekly, driving customer-centric operations.
+Implemented a COO-led Voice of Customer (VoC) loop that feeds product development weekly, driving customer-centric operations.
 
 As COO of a tech startup, faced with declining customer satisfaction scores and a lack of product-market fit, threatening growth and retention rates.
 

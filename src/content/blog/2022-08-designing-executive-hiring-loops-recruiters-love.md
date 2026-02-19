@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Redesigned executive hiring loops increased efficiency by 40% in six months.'
 ---
 
-Hook: Redesigned executive hiring loops increased efficiency by 40% in six months.
+Redesigned executive hiring loops increased efficiency by 40% in six months.
 
 As a COO, I inherited an executive hiring process with high turnover rates and lengthy time-to-fill metrics. The existing process was chaotic, leading to missed opportunities and dissatisfaction among hiring managers and candidates.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: I transformed the CEO Sunday Pack, enhancing executive communications cadence in a high-stakes environment.'
 ---
 
-Hook: I transformed the CEO Sunday Pack, enhancing executive communications cadence in a high-stakes environment.
+I transformed the CEO Sunday Pack, enhancing executive communications cadence in a high-stakes environment.
 
 As COO of a fast-growing tech startup, I faced the challenge of inefficient executive communication processes. The CEO Sunday Pack, a weekly update sent to the leadership team, lacked structure, leading to missed deadlines and misalignment on key priorities. With the company rapidly scaling, the stakes were high for improving communication efficiency to drive strategic decision-making.
 

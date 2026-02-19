@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Reduced ticket backlog by 67% using innovative playbooks in support automation.'
 ---
 
-Hook: Reduced ticket backlog by 67% using innovative playbooks in support automation.
+Reduced ticket backlog by 67% using innovative playbooks in support automation.
 
 When I joined XYZ Company as COO, the customer support team was overwhelmed with a high ticket backlog of over 1,000 unresolved customer inquiries. This was resulting in long response times, decreased customer satisfaction, and increased operational costs.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a service-oriented business model into a productized service for 30% margin growth.'
 ---
 
-Hook: Transformed a service-oriented business model into a productized service for 30% margin growth.
+Transformed a service-oriented business model into a productized service for 30% margin growth.
 
 As the COO of a mid-sized consulting firm, we faced unpredictable margins due to the variability in project scopes and timelines. Our service delivery model led to inconsistent revenue streams and hindered our ability to forecast financial performance accurately.
 

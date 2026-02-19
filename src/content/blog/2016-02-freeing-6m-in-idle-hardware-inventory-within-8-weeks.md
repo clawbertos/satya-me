@@ -7,7 +7,6 @@ description: 'Hook:
 Recovered $6M in idle hardware inventory within 8 weeks - a COO’s strategic operational leadership in action.'
 ---
 
-Hook:
 Recovered $6M in idle hardware inventory within 8 weeks - a COO’s strategic operational leadership in action.
 
 As COO of a technology company, I inherited a significant challenge - $6 million tied up in idle hardware inventory. The company’s cash flow was impacted, and valuable warehouse space was being underutilized. Immediate action was imperative to free up working capital and optimize operational efficiency.

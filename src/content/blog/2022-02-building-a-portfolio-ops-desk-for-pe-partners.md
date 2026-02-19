@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a Portfolio Ops Desk resulting in a 20% increase in portfolio company EBITDA within 12 months.'
 ---
 
-Hook: Implemented a Portfolio Ops Desk resulting in a 20% increase in portfolio company EBITDA within 12 months.
+Implemented a Portfolio Ops Desk resulting in a 20% increase in portfolio company EBITDA within 12 months.
 
 As a COO in a private equity firm managing a diverse portfolio of companies, I faced the challenge of inconsistent operational performance across our investments. The lack of standardized processes and oversight hindered our ability to drive value creation efficiently, impacting overall fund returns and investor satisfaction.
 

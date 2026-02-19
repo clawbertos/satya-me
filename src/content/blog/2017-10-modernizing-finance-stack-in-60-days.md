@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed outdated finance stack in just 60 days, boosting efficiency and accuracy.'
 ---
 
-Hook: Transformed outdated finance stack in just 60 days, boosting efficiency and accuracy.
+Transformed outdated finance stack in just 60 days, boosting efficiency and accuracy.
 
 As COO of a growing tech company, I inherited a finance department struggling with outdated processes and systems. Manual data entry was prone to errors, leading to delayed reporting and decision-making. The team was drowning in spreadsheets, impacting productivity and risking compliance issues.
 

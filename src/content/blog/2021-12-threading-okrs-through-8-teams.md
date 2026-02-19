@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully threading OKRs through multiple teams can drive significant operational improvements and alignment.'
 ---
 
-Hook: Successfully threading OKRs through multiple teams can drive significant operational improvements and alignment.
+Successfully threading OKRs through multiple teams can drive significant operational improvements and alignment.
 
 Eight teams across marketing, sales, and product departments were struggling with siloed goals, leading to inefficiencies, missed deadlines, and decreased collaboration. The lack of alignment was impacting overall company performance, with quarterly revenue growth averaging only 3%.
 

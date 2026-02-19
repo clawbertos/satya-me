@@ -7,7 +7,6 @@ description: 'Hook:
 In the face of a critical systems failure, I led a rapid and strategic crisis communications plan that saved our company from a potential PR disaster.'
 ---
 
-Hook:
 In the face of a critical systems failure, I led a rapid and strategic crisis communications plan that saved our company from a potential PR disaster.
 
 As the COO of a tech startup, I faced a high-stakes situation when our primary data center experienced a catastrophic outage, causing a massive service disruption for our clients. With our customer base panicking and social media ablaze with negative comments, our company’s reputation and revenue were on the line.

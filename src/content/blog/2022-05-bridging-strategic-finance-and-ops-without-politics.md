@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully bridging the gap between strategic finance and operations, resulting in a 15% increase in profitability within six months.'
 ---
 
-Hook: Successfully bridging the gap between strategic finance and operations, resulting in a 15% increase in profitability within six months.
+Successfully bridging the gap between strategic finance and operations, resulting in a 15% increase in profitability within six months.
 
 As the newly appointed COO of a fast-growing tech startup, I inherited a siloed organizational structure where the finance and operations teams operated independently. This lack of alignment led to inefficiencies, missed opportunities, and a disconnect between financial goals and operational realities, threatening the company’s growth trajectory.
 

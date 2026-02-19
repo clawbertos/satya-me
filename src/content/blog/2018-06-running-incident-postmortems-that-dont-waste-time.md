@@ -7,7 +7,6 @@ description: 'Hook:
 Reducing incident postmortem time by 50% while improving actionable insights.'
 ---
 
-Hook:
 Reducing incident postmortem time by 50% while improving actionable insights.
 
 As COO of a tech company experiencing a surge in incidents, we faced prolonged postmortems that often resulted in vague action items and lacked measurable progress tracking. With downtime costs averaging $10,000 per hour, swift and effective incident resolution was critical.

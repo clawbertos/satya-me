@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Achieved a 14% margin increase through consolidating 60 vendors - a game-changer for operational efficiency.'
 ---
 
-Hook: Achieved a 14% margin increase through consolidating 60 vendors - a game-changer for operational efficiency.
+Achieved a 14% margin increase through consolidating 60 vendors - a game-changer for operational efficiency.
 
 Faced with declining margins and operational inefficiencies, our company was struggling to maintain profitability due to a fragmented vendor landscape. With 60 vendors providing similar services at varying costs and quality levels, the lack of consistency and control was impacting our bottom line significantly.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Reviving a toxic culture post-hypergrowth: a COO’s success story.'
 ---
 
-Hook: Reviving a toxic culture post-hypergrowth: a COO’s success story.
+Reviving a toxic culture post-hypergrowth: a COO’s success story.
 
 Following rapid expansion, a tech startup faced plummeting employee morale, high turnover rates, and a toxic work environment, jeopardizing future growth and success.
 

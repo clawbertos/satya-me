@@ -7,7 +7,6 @@ description: 'Hook:
 Successfully leading an ERP cutover in a high-stakes environment can demonstrate a COO’s operational prowess.'
 ---
 
-Hook:
 Successfully leading an ERP cutover in a high-stakes environment can demonstrate a COO’s operational prowess.
 
 As COO of a mid-sized manufacturing company, tasked with overseeing an ERP system migration critical to optimizing operations. The existing system was outdated, causing inefficiencies, delays in production, and impacting customer satisfaction.

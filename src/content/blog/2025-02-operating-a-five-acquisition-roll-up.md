@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully leading operational integration in a complex M&A roll-up involving five acquisitions.'
 ---
 
-Hook: Successfully leading operational integration in a complex M&A roll-up involving five acquisitions.
+Successfully leading operational integration in a complex M&A roll-up involving five acquisitions.
 
 As the COO of a growing tech company, faced with the challenge of integrating five separate acquisitions within a tight timeline to achieve synergies and scale operations efficiently.
 

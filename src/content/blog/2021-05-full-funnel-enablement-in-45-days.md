@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed GTM enablement from chaos to clarity in just 45 days.'
 ---
 
-Hook: Transformed GTM enablement from chaos to clarity in just 45 days.
+Transformed GTM enablement from chaos to clarity in just 45 days.
 
 As the COO of a SaaS startup, I inherited a GTM strategy in disarray. Sales and marketing teams operated in silos, resulting in missed opportunities and inconsistent messaging. With quarterly targets slipping away, urgent intervention was needed to align the entire funnel.
 

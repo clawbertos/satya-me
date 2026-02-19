@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Boosting NPS by over 20 points under my COO leadership transformed our business.'
 ---
 
-Hook: Boosting NPS by over 20 points under my COO leadership transformed our business.
+Boosting NPS by over 20 points under my COO leadership transformed our business.
 
 As COO of a tech startup, I inherited a dire situation: our Net Promoter Score (NPS) was languishing at a dismal 15, leading to customer churn and revenue loss.
 

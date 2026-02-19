@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully sunsetting and spinning out a business unit within one quarter'
 ---
 
-Hook: Successfully sunsetting and spinning out a business unit within one quarter
+Successfully sunsetting and spinning out a business unit within one quarter
 
 Facing declining profitability and market relevance, our business unit needed a swift and strategic turnaround. The unit’s continued operation posed a risk to overall company performance, requiring immediate intervention to mitigate losses and realign resources.
 

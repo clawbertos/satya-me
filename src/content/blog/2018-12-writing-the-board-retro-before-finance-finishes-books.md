@@ -6,7 +6,7 @@ tags:
 description: 'Hook: In the midst of financial chaos, I led a strategic board retro before the finance team closed the books.'
 ---
 
-Hook: In the midst of financial chaos, I led a strategic board retro before the finance team closed the books.
+In the midst of financial chaos, I led a strategic board retro before the finance team closed the books.
 
 As COO of a fast-growing tech startup, our finance department was struggling to close the books on time due to operational inefficiencies. The delay was jeopardizing our ability to provide accurate financial reports to the board, leading to a lack of transparency and trust in our financial management.
 

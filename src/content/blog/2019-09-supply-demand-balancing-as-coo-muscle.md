@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully balancing supply and demand in a marketplace can be the ultimate test of a COO’s operational prowess.'
 ---
 
-Hook: Successfully balancing supply and demand in a marketplace can be the ultimate test of a COO’s operational prowess.
+Successfully balancing supply and demand in a marketplace can be the ultimate test of a COO’s operational prowess.
 
 As the COO of a fast-growing e-commerce platform, I faced a critical challenge. The marketplace was experiencing rapid growth, with demand outpacing supply, leading to missed opportunities, dissatisfied customers, and potential revenue loss.
 

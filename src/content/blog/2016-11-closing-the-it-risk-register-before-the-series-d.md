@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Eliminating IT risk before a Series D funding round saved our company from potential disaster.'
 ---
 
-Hook: Eliminating IT risk before a Series D funding round saved our company from potential disaster.
+Eliminating IT risk before a Series D funding round saved our company from potential disaster.
 
 As COO of a tech startup preparing for a Series D funding round, we faced a critical challenge with our IT risk register. Over time, the register had become cluttered and outdated, with 150 unresolved high-priority issues, posing a significant threat to our operations and cybersecurity. This not only jeopardized our chances of securing new funding but also risked damaging our reputation and customer trust.
 

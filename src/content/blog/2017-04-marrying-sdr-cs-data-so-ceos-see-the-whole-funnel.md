@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By merging Sales Development Representative (SDR) and Customer Success (CS) data, I revolutionized our company’s visibility into the entire sales funnel, driving strategic decision-making and boosting revenue.'
 ---
 
-Hook: By merging Sales Development Representative (SDR) and Customer Success (CS) data, I revolutionized our company’s visibility into the entire sales funnel, driving strategic decision-making and boosting revenue.
+By merging Sales Development Representative (SDR) and Customer Success (CS) data, I revolutionized our company’s visibility into the entire sales funnel, driving strategic decision-making and boosting revenue.
 
 As the COO of a SaaS company, I noticed a disconnect between our SDR and CS teams. The lack of alignment between these two critical functions was hindering our ability to track the customer journey seamlessly. This siloed approach was leading to missed opportunities, inefficiencies, and ultimately impacting our bottom line.
 

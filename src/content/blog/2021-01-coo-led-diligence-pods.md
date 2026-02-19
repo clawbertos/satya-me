@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented diligence pods to streamline M&A processes, resulting in a 30% reduction in deal cycle times.'
 ---
 
-Hook: Implemented diligence pods to streamline M&A processes, resulting in a 30% reduction in deal cycle times.
+Implemented diligence pods to streamline M&A processes, resulting in a 30% reduction in deal cycle times.
 
 Facing a high volume of M&A deals, our company was struggling with inefficiencies in the due diligence process. With critical timelines at stake, we needed a solution to expedite deal closures and maximize value creation.
 

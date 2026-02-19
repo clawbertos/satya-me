@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a struggling GTM compensation plan, increasing sales productivity by 20%.'
 ---
 
-Hook: Transformed a struggling GTM compensation plan, increasing sales productivity by 20%.
+Transformed a struggling GTM compensation plan, increasing sales productivity by 20%.
 
 As COO of a technology company, I inherited a GTM compensation plan that was demotivating the sales team. High turnover, missed targets, and lack of alignment with company goals were impacting revenue growth.
 

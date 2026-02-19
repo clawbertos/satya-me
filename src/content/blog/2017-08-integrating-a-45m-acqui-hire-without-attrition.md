@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully integrated a $45M acqui-hire without any talent attrition.'
 ---
 
-Hook: Successfully integrated a $45M acqui-hire without any talent attrition.
+Successfully integrated a $45M acqui-hire without any talent attrition.
 
 Acme Corp, a leading tech firm, acquired a smaller competitor for $45M to strengthen its market position. The challenge was to integrate the new team of 100 employees without losing key talent or disrupting ongoing projects.
 

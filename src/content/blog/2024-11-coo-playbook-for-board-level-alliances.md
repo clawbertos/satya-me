@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By forging strategic alliances at the board level, I accelerated revenue growth by 30% within one year.'
 ---
 
-Hook: By forging strategic alliances at the board level, I accelerated revenue growth by 30% within one year.
+By forging strategic alliances at the board level, I accelerated revenue growth by 30% within one year.
 
 As a COO of a mid-sized tech company, we were facing intense market competition and stagnant revenue growth. Our board recognized the need for strategic alliances to drive innovation and market expansion, but we lacked a cohesive strategy to execute at the highest level.
 

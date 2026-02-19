@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Led a high-stakes cyber game day to stress-test our organization’s cybersecurity resilience.'
 ---
 
-Hook: Led a high-stakes cyber game day to stress-test our organization’s cybersecurity resilience.
+Led a high-stakes cyber game day to stress-test our organization’s cybersecurity resilience.
 
 As COO of a tech company, I faced the critical challenge of preparing our team for potential cyber threats in a rapidly evolving digital landscape. With cyber attacks on the rise, the stakes were high to ensure our systems were robust enough to withstand any potential breaches.
 

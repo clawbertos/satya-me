@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully navigating founder succession without disrupting company culture.'
 ---
 
-Hook: Successfully navigating founder succession without disrupting company culture.
+Successfully navigating founder succession without disrupting company culture.
 
 As the COO of a fast-growing tech startup, I was faced with the challenge of ensuring a smooth transition during founder succession. The stakes were high as we risked losing key talent and derailing our growth trajectory if the transition was not managed effectively.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: In just 5 days, I spearheaded the creation of a launch war room that drove a 30% increase in launch success rates.'
 ---
 
-Hook: In just 5 days, I spearheaded the creation of a launch war room that drove a 30% increase in launch success rates.
+In just 5 days, I spearheaded the creation of a launch war room that drove a 30% increase in launch success rates.
 
 As a COO in a high-growth tech company, we faced a critical challenge with our product launches. Despite meticulous planning, our launches were often delayed or faced last-minute issues, leading to missed opportunities and customer dissatisfaction. The lack of a centralized command center to coordinate cross-functional efforts exacerbated the problem, putting our revenue targets and market reputation at risk.
 

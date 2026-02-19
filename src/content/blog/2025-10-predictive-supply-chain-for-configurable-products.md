@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a predictive supply chain strategy for configurable products, resulting in a 30% reduction in lead times.'
 ---
 
-Hook: Implemented a predictive supply chain strategy for configurable products, resulting in a 30% reduction in lead times.
+Implemented a predictive supply chain strategy for configurable products, resulting in a 30% reduction in lead times.
 
 As the COO of a manufacturing company specializing in configurable products, I faced challenges with unpredictable demand patterns leading to high lead times and inventory costs. The traditional supply chain model was inefficient and unable to adapt to rapidly changing customer requirements, risking customer satisfaction and profitability.
 

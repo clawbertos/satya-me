@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Successfully overhauled an $80M post-merger operating system to drive efficiency and profitability.'
 ---
 
-Hook: Successfully overhauled an $80M post-merger operating system to drive efficiency and profitability.
+Successfully overhauled an $80M post-merger operating system to drive efficiency and profitability.
 
 Inheriting a complex post-merger landscape of two companies with redundant processes and conflicting cultures, the organization was facing a stagnation in growth and operational inefficiencies. The stakes were high as the lack of integration was hindering productivity and leading to missed revenue opportunities.
 

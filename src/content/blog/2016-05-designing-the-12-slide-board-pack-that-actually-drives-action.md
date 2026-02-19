@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By implementing a data-driven approach, I transformed our board pack into a powerful tool that drove strategic actions and decisions.'
 ---
 
-Hook: By implementing a data-driven approach, I transformed our board pack into a powerful tool that drove strategic actions and decisions.
+By implementing a data-driven approach, I transformed our board pack into a powerful tool that drove strategic actions and decisions.
 
 As COO, I inherited a board pack that lacked focus and failed to provide actionable insights. Board meetings were becoming unproductive, and key performance indicators (KPIs) were not clearly linked to our strategic goals. The stakes were high as the board was essential in guiding the company’s direction, and ineffective communication could lead to missed opportunities.
 

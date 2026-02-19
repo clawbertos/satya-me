@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By implementing a robust people analytics system, I transformed our operational efficiency and employee performance.'
 ---
 
-Hook: By implementing a robust people analytics system, I transformed our operational efficiency and employee performance.
+By implementing a robust people analytics system, I transformed our operational efficiency and employee performance.
 
 As the COO of a growing tech company, we were facing challenges in optimizing our operational processes and improving employee productivity. Lacking visibility into key HR metrics such as turnover rates, performance trends, and training effectiveness, we were making decisions based on intuition rather than data, leading to inefficiencies and missed opportunities for improvement.
 

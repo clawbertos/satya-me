@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implementing a successor shadow program resulted in doubling employee retention rates and slashing onboarding costs by 30%.'
 ---
 
-Hook: Implementing a successor shadow program resulted in doubling employee retention rates and slashing onboarding costs by 30%.
+Implementing a successor shadow program resulted in doubling employee retention rates and slashing onboarding costs by 30%.
 
 A fast-growing tech startup faced a critical challenge when the founder and CEO announced their impending retirement. With key leadership at risk of departure and organizational knowledge siloed, the company risked losing its competitive edge in the market.
 

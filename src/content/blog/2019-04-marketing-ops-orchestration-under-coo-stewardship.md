@@ -6,7 +6,7 @@ tags:
 description: 'Hook: As a COO, I transformed a struggling marketing ops department into a well-oiled machine, increasing efficiency and revenue.'
 ---
 
-Hook: As a COO, I transformed a struggling marketing ops department into a well-oiled machine, increasing efficiency and revenue.
+As a COO, I transformed a struggling marketing ops department into a well-oiled machine, increasing efficiency and revenue.
 
 The marketing ops department was inefficient, leading to missed deadlines, low campaign performance, and dissatisfied clients. Revenue was stagnant, and employee turnover was high.
 

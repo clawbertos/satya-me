@@ -6,7 +6,7 @@ tags:
 description: 'Hook: By establishing a cross-portfolio Ops Guild, I transformed siloed operations into a cohesive powerhouse driving efficiency and collaboration.'
 ---
 
-Hook: By establishing a cross-portfolio Ops Guild, I transformed siloed operations into a cohesive powerhouse driving efficiency and collaboration.
+By establishing a cross-portfolio Ops Guild, I transformed siloed operations into a cohesive powerhouse driving efficiency and collaboration.
 
 With multiple business units operating independently, our organization was missing out on significant opportunities for cross-functional collaboration and efficiency gains. Siloed operations led to duplicated efforts, inefficiencies, and missed synergies, impacting our bottom line and growth potential.
 

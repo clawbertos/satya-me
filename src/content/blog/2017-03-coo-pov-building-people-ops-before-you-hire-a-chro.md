@@ -7,7 +7,6 @@ description: 'Hook:
 By implementing a robust people operations framework before hiring a Chief Human Resources Officer (CHRO), I transformed our organizational structure and set the stage for sustainable growth.'
 ---
 
-Hook:
 By implementing a robust people operations framework before hiring a Chief Human Resources Officer (CHRO), I transformed our organizational structure and set the stage for sustainable growth.
 
 As a rapidly expanding tech startup, we faced escalating HR challenges without a dedicated HR leadership role. High turnover rates, lack of employee development programs, and inconsistent hiring practices were hindering our productivity and culture. The need for strategic HR direction was critical to support our scaling operations and nurture our most valuable asset - our people.

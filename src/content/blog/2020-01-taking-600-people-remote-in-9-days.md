@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Rapidly transitioned 600 employees to remote work in just 9 days amidst a global crisis.'
 ---
 
-Hook: Rapidly transitioned 600 employees to remote work in just 9 days amidst a global crisis.
+Rapidly transitioned 600 employees to remote work in just 9 days amidst a global crisis.
 
 In response to a sudden global crisis, our organization faced the urgent need to shift 600 employees to remote work within a short timeframe. With productivity and business continuity at stake, the pressure was on to execute this transition swiftly and seamlessly.
 

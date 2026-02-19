@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented an annual operator retro that boosted efficiency by 15% in a messy operational environment.'
 ---
 
-Hook: Implemented an annual operator retro that boosted efficiency by 15% in a messy operational environment.
+Implemented an annual operator retro that boosted efficiency by 15% in a messy operational environment.
 
 In a rapidly growing tech startup, operational chaos was hindering productivity. With multiple teams working in silos and unclear processes, deadlines were missed, quality suffered, and employee morale was declining.
 

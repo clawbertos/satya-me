@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented dual-sourcing strategy within 30 days to mitigate supply chain risk and enhance operational resilience.'
 ---
 
-Hook: Implemented dual-sourcing strategy within 30 days to mitigate supply chain risk and enhance operational resilience.
+Implemented dual-sourcing strategy within 30 days to mitigate supply chain risk and enhance operational resilience.
 
 Facing overreliance on a single supplier for critical components, with lead times impacting production schedules and revenue streams. The company was vulnerable to disruptions, with potential revenue losses of $500,000 per week in case of supplier failure.
 

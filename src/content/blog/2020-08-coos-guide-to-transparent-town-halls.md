@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented transparent town halls to boost employee engagement and communication effectiveness by 40%.'
 ---
 
-Hook: Implemented transparent town halls to boost employee engagement and communication effectiveness by 40%.
+Implemented transparent town halls to boost employee engagement and communication effectiveness by 40%.
 
 As the COO of a growing tech company, I faced a critical challenge in employee communication. With a dispersed workforce across multiple locations, there was a lack of transparency and alignment among teams. This led to decreased morale, productivity, and ultimately, hindered our overall growth potential.
 

@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a traditional FP&A function into a real-time command center, boosting financial agility tenfold.'
 ---
 
-Hook: Transformed a traditional FP&A function into a real-time command center, boosting financial agility tenfold.
+Transformed a traditional FP&A function into a real-time command center, boosting financial agility tenfold.
 
 The company’s FP&A team operated on a monthly cycle, relying on outdated data and processes. This led to reactive decision-making, missed opportunities, and slow responses to market changes, risking profitability and growth.
 

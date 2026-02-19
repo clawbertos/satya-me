@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a remote gratitude tour initiative that boosted employee morale by 40% during a challenging period.'
 ---
 
-Hook: Implemented a remote gratitude tour initiative that boosted employee morale by 40% during a challenging period.
+Implemented a remote gratitude tour initiative that boosted employee morale by 40% during a challenging period.
 
 In the midst of a global pandemic, our company faced a significant challenge of maintaining high employee morale and engagement while transitioning to a remote work environment. The lack of in-person interactions and team bonding activities led to a noticeable decrease in employee satisfaction and motivation, impacting productivity and overall performance.
 

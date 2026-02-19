@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Revamping a strategic procurement center to drive cost savings and operational efficiency.'
 ---
 
-Hook: Revamping a strategic procurement center to drive cost savings and operational efficiency.
+Revamping a strategic procurement center to drive cost savings and operational efficiency.
 
 As the COO of a mid-sized manufacturing company, I inherited a procurement center struggling to meet cost-saving targets. The lack of strategic sourcing processes and vendor management led to high purchasing costs, impacting our bottom line and operational efficiency.
 

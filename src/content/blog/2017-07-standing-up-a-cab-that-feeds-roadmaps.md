@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Implemented a Customer Advisory Board (CAB) that transformed product roadmaps and customer engagement.'
 ---
 
-Hook: Implemented a Customer Advisory Board (CAB) that transformed product roadmaps and customer engagement.
+Implemented a Customer Advisory Board (CAB) that transformed product roadmaps and customer engagement.
 
 As COO of a SaaS company, I faced the challenge of disconnected product development and customer needs. Customer churn was on the rise, and feedback loops were inefficient, leading to missed opportunities for product improvements.
 

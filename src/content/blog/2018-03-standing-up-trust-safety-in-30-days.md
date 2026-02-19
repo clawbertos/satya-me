@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a marketplace’s trust & safety operations in just 30 days, driving substantial improvements in user safety and satisfaction.'
 ---
 
-Hook: Transformed a marketplace’s trust & safety operations in just 30 days, driving substantial improvements in user safety and satisfaction.
+Transformed a marketplace’s trust & safety operations in just 30 days, driving substantial improvements in user safety and satisfaction.
 
 As the newly appointed COO of a growing online marketplace, I inherited a trust and safety function struggling to combat increasing incidents of fraud and abuse. User complaints were on the rise, leading to a significant drop in customer satisfaction and retention rates.
 

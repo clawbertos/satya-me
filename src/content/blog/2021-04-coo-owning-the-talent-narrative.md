@@ -6,7 +6,7 @@ tags:
 description: 'Hook: As a COO, I transformed our talent brand to drive recruitment success, proving that operational leaders can be pivotal in shaping organizational culture.'
 ---
 
-Hook: As a COO, I transformed our talent brand to drive recruitment success, proving that operational leaders can be pivotal in shaping organizational culture.
+As a COO, I transformed our talent brand to drive recruitment success, proving that operational leaders can be pivotal in shaping organizational culture.
 
 Our company was struggling to attract top talent due to a lackluster talent brand, resulting in extended time-to-fill rates and high turnover costs. The stakes were high as our competitors were outperforming us in securing top industry professionals.
 

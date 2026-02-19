@@ -6,7 +6,7 @@ tags:
 description: 'Hook: Transformed a chaotic channel partner program into a revenue-driving machine, increasing sales efficiency and profitability.'
 ---
 
-Hook: Transformed a chaotic channel partner program into a revenue-driving machine, increasing sales efficiency and profitability.
+Transformed a chaotic channel partner program into a revenue-driving machine, increasing sales efficiency and profitability.
 
 As COO of a tech company, I inherited a disorganized channel partner program with declining sales, missed revenue targets, and frustrated partners. The lack of clear processes and ineffective communication resulted in a 20% decrease in channel sales and a strained partner network.
 
